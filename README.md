@@ -3,6 +3,8 @@ A robot controlled by bluetooh that throw fire flames.
 
 ## Getting Started
 Done list:
+* Module BT being configurated.
+* First test for movement by BT
 
 To do list:
 
