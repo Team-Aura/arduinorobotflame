@@ -43,10 +43,8 @@ pinMode(motor_right[i], OUTPUT);
 }
 
 //Setup Servo
-
  servo.attach(10);
-  
-
+ 
 }
 
 // --------------------------------------------------------------------------- Loop
@@ -182,14 +180,10 @@ void firstSection()
 
 
 void servo1(){
-      
-      servo.write(105);
-      
-    } 
+ servo.write(105);
+} 
 
-    void servo2(){
-      
-      servo.write(0);
-      
-    } 
+void servo2(){
+ servo.write(0);
+} 
   
