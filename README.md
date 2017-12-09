@@ -13,8 +13,8 @@ To do list:
 What things you need to install the software and how to install them
 
 ```
-Arduino IDE
-Bluetooh controller app
+Arduino IDE - (https://www.arduino.cc/en/Main/Software)
+Bluetooh controller app - (https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=es_419)
 ```
 
 ### Installing
