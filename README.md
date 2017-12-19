@@ -1,5 +1,6 @@
 # Arduino Flamethrower Robot
 A robot controlled by bluetooh that throw fire flames.
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=uY29Aias6Zg&feature=youtu.be)
 
 ## Getting Started
 Done list:
